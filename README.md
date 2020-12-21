@@ -1,6 +1,4 @@
 # Theme .dotfiles :nail_care:
-Dynamically change your systems color scheme and all applications that rely on GTK settings based on a wallpaper image.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/bukovyn/theme/main/img/themes.png" alt="themes">
 </p>
