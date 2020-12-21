@@ -1,4 +1,4 @@
-# Theme .dotfiles :nail_care:
+# Theme .dotfiles
 <p align="center">
   <img src="https://raw.githubusercontent.com/bukovyn/theme/main/img/themes.png" alt="themes">
 </p>
