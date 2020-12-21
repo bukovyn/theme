@@ -1,0 +1,3 @@
+spicetify/*
+!spicetify/config.ini
+!spicetify/Themes
