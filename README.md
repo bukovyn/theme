@@ -7,7 +7,6 @@ Dynamically change your systems color scheme and all applications that rely on G
 - [pywal](https://github.com/dylanaraps/pywal)
 - [oomox](https://github.com/themix-project/oomox)
 - [gtk](https://www.gtk.org/)
-
-## Optional
-- [wal-discord](https://github.com/guglicap/wal-discord) Discord
-- [spicetify-cli](https://github.com/khanhas/spicetify-cli) Spotify
+- Optional
+  - [wal-discord](https://github.com/guglicap/wal-discord) Discord
+  - [spicetify-cli](https://github.com/khanhas/spicetify-cli) Spotify
