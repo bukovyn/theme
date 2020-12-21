@@ -7,10 +7,10 @@ Dynamically change your systems color scheme and all applications that rely on G
 <p align="center"><i>Presets shown on arch linux with i3-gaps</i></p>
 
 # Requirements
-- [pywal](https://github.com/dylanaraps/pywal)
-- [oomox](https://github.com/themix-project/oomox)
 - [gtk](https://www.gtk.org/)
+- [oomox](https://github.com/themix-project/oomox)
+- [pywal](https://github.com/dylanaraps/pywal)
 - Optional
-  - [wal-discord](https://github.com/guglicap/wal-discord) Discord
-  - [spicetify-cli](https://github.com/khanhas/spicetify-cli) Spotify
   - [polybar](https://github.com/polybar/polybar)
+  - [spicetify-cli](https://github.com/khanhas/spicetify-cli) Spotify
+  - [wal-discord](https://github.com/guglicap/wal-discord) Discord
